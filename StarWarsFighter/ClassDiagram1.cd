@@ -1,0 +1,269 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="StarWarsFighter.Character" Collapsed="true">
+    <Position X="7.75" Y="5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ABQAAAAAECAAAwAEAAAAQAAACBCACAAAgAAAEAAAAAg=</HashCode>
+      <FileName>Characters\Character.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ship" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="StarWarsFighter.Cruiser" Collapsed="true">
+    <Position X="6.5" Y="7.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>BJQAAAAAACQECwAAAAAAAiAAABAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Characters\Cruiser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StarWarsFighter.Destroyer" Collapsed="true">
+    <Position X="6.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAAAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Characters\Destroyer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StarWarsFighter.Enemy" Collapsed="true">
+    <Position X="8.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAgAEAAEAwAEAIAAQAAAAJAAACAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Characters\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StarWarsFighter.Fighter" Collapsed="true">
+    <Position X="8.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAEAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Characters\Fighter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StarWarsFighter.Minion" Collapsed="true">
+    <Position X="11" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAAAAAAAEAwAAAAAAAAAAAAAAAQAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Characters\Minion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StarWarsFighter.Player" Collapsed="true">
+    <Position X="5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQQAAAAECAAAwAAAAAAQAAAAJABAAAAAAAIAAEEAAQ=</HashCode>
+      <FileName>Characters\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StarWarsFighter.CollidingObject" Collapsed="true">
+    <Position X="16.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AhQIAAQAEAIAAwEABAEAAAgCAAAgAAAAAAAAAAAABAQ=</HashCode>
+      <FileName>Classes\Drawable\CollidingObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StarWarsFighter.DrawableGO" Collapsed="true">
+    <Position X="13" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAEEAAAAAAAwAAAACAIAIGgAAAAgEAAAAAAAAAAEQ=</HashCode>
+      <FileName>Classes\Drawable\DrawableGO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StarWarsFighter.Ship" Collapsed="true">
+    <Position X="14.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAgAAEAAAAwCCAAAAAAAAAAABAQAAAACAAAAAAKQ=</HashCode>
+      <FileName>Classes\Drawable\Ship.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StarWarsFighter.GameAudio" Collapsed="true">
+    <Position X="17.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QQEAAACAggAAAAgEAQgkAJgAAEAAAAhAIABBAACAMgA=</HashCode>
+      <FileName>Misc\GameAudio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StarWarsFighter.GUI" Collapsed="true">
+    <Position X="23.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAaBAAAAIABAAwAAAAAAAAAAAAAAAAAAAAAAAAgAAAQ=</HashCode>
+      <FileName>Misc\GUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StarWarsFighter.Item" Collapsed="true">
+    <Position X="20.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQBAAAAEAAAAwAAAAAAAAAAAAAAACBAAAAAAAAgQAQ=</HashCode>
+      <FileName>Misc\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StarWarsFighter.MainMenu" Collapsed="true">
+    <Position X="4.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAgAwAAAAAAAAAAAACAAAAABAAgAAAAIAA=</HashCode>
+      <FileName>Misc\Menus\MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StarWarsFighter.Menu" Collapsed="true">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQAAEBAAAAACwAAAAEAAAAAAACAAAIAAAAACAAAAEA=</HashCode>
+      <FileName>Misc\Menus\Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StarWarsFighter.MenuButton" Collapsed="true">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAQAAAAAwAgAAAAIAIAgAIFAgEgAAAAAAAAAAQ=</HashCode>
+      <FileName>Misc\Menus\MenuButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StarWarsFighter.MenuLogo" Collapsed="true">
+    <Position X="14" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAwAAAAEAAAAAgAAgAACAAAAAAQEAAAA=</HashCode>
+      <FileName>Misc\Menus\MenuLogo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StarWarsFighter.OptionsScreen" Collapsed="true">
+    <Position X="11.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAwAAAAAAAAAAAAKAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Misc\Menus\OptionsScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StarWarsFighter.PauseMenu" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAgAAgAwAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Misc\Menus\PauseMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StarWarsFighter.SelectionScreen" Collapsed="true">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAEAAAAAAAwAAAAAAAAIAAIKAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Misc\Menus\SelectionScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StarWarsFighter.ShipSelectScreen" Collapsed="true">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAgAAAwAAACAAAAAAAACAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Misc\Menus\ShipSelectScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StarWarsFighter.Score" Collapsed="true">
+    <Position X="25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAwAAAAAIAAAAAAEAAAAIABAAAAAAAAQ=</HashCode>
+      <FileName>Misc\Score.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StarWarsFighter.StarBackground" Collapsed="true">
+    <Position X="21.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAwAAAAAAAAAAAAAIAQAAAAAIAAAAAAQ=</HashCode>
+      <FileName>Misc\StarBackground.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StarWarsFighter.Program" Collapsed="true">
+    <Position X="17.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StarWarsFighter.Constants" Collapsed="true">
+    <Position X="19" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwAAACQACCQAAAAAAAAAAIAAAQAAAQAgAAAACAAAAA=</HashCode>
+      <FileName>StarWarsFighter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StarWarsFighter.StarWarsFighter" Collapsed="true">
+    <Position X="17.25" Y="1.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>NCQInlBBIqgEA6cEA0SIBIogqKCJAkhBQSAgBwARIIc=</HashCode>
+      <FileName>StarWarsFighter.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="gameAudio" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="StarWarsFighter.Bullet" Collapsed="true">
+    <Position X="18.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQCEAAAEIIAAwCAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Weapons\Bullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StarWarsFighter.CruiserCanon" Collapsed="true">
+    <Position X="14.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYACAAAABAEAwAAACAAQAAAABCAAAAAAAGAAAEAAAw=</HashCode>
+      <FileName>Weapons\CruiserCanon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StarWarsFighter.LaserCanon" Collapsed="true">
+    <Position X="16.5" Y="7.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Weapons\LaserCanon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StarWarsFighter.RocketCanon" Collapsed="true">
+    <Position X="18.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQCAAAAAAAAAwAAAAAAAAAAAAAACAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Weapons\RocketCanon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StarWarsFighter.Weapon" Collapsed="true">
+    <Position X="16.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AFQAAACAAAAAgwAAgAAACAAAAAAgAQAAABEAAQAwAAQ=</HashCode>
+      <FileName>Weapons\Weapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StarWarsFighter.EnemyLAN" Collapsed="true">
+    <Position X="4" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Characters\EnemyLAN.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StarWarsFighter.LanScreen" Collapsed="true">
+    <Position X="2.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAACAEAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Misc\Menus\LanScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StarWarsFighter.DeathMenu" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAgA4AAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Misc\Menus\DeathMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

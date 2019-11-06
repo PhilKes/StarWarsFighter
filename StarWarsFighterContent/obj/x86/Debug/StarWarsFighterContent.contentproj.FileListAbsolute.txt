@@ -1,0 +1,7 @@
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighterContent\obj\x86\Debug\StarWarsFighterContent.contentprojResolveAssemblyReference.cache
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighterContent\obj\x86\Debug\StarWarsFighterContent.contentprojResolveAssemblyReference.cache
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighterContent\obj\x86\Debug\StarWarsFighterContent.contentprojResolveAssemblyReference.cache
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighterContent\obj\x86\Debug\StarWarsFighterContent.contentprojResolveAssemblyReference.cache
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighterContent\obj\x86\Debug\StarWarsFighterContent.contentprojResolveAssemblyReference.cache
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighterContent\obj\x86\Debug\StarWarsFighterContent.contentprojResolveAssemblyReference.cache
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighterContent\obj\x86\Debug\StarWarsFighterContent.contentprojResolveAssemblyReference.cache

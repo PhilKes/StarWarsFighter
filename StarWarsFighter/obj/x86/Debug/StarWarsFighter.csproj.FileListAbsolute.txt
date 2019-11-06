@@ -1,0 +1,650 @@
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\StarWarsFighter.exe
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\StarWarsFighter.pdb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.dll
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.xml
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\obj\x86\Debug\StarWarsFighter.exe
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\obj\x86\Debug\StarWarsFighter.pdb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Xact.dll
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Xact.xml
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\LaserCanon\Sounds\blast.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\Sounds\explode.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\Sounds\hit.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\RocketCanon\Sounds\blast.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\Sounds\blast.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Music\Star Wars Episode IV A new Hope-Battle of Yavin IV.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Music\Star Wars Episode VI_ Return of the Jedi-Battle of Endor 1.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Music\Star Wars Episode V_ The Empire Strikes Back-  Rescue from Cloud City, Hyperspace.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Music\Star Wars Episode V_ The Empire Strikes Back- Attacking a Star Destroyer.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Music\Star Wars Episode V_ The Empire Strikes Back- The Asteroid Field.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Items\AmmoBox_pickup.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Music\Star Wars Main Theme.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Rebels\Minion\Sounds\explode.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Rebels\Minion\Sounds\fly.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Rebels\Minion\Sounds\hit.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Empire\Minion\Sounds\explode.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Empire\Minion\Sounds\fly.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Empire\Minion\Sounds\hit.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Empire\Destroyer\Sounds\explode.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Empire\Destroyer\Sounds\fly.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Empire\Destroyer\Sounds\hit.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Rebels\Destroyer\Sounds\explode.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Rebels\Destroyer\Sounds\fly.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Rebels\Destroyer\Sounds\hit.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\GUIFont.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\ScoreFont.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\empireLogo.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\mouseCursor.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\rebelsLogo.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\space.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\space_full.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\GUI\Weapons\LaserCanon.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\GUI\Weapons\RocketCanon.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Items\AmmoBox.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\Awing.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\back.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\debug.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\debugChecked.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\empire.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\empireLogo.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\empireLogo4.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\exit.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\logo.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\logo_other.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\mainmenu.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\mainmenu_background.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\menu.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\MilleniumFalcon.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\newGame.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\options.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\paused.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\rebels.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\rebelsLogo.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\resume.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\TieFighter.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\TieInterceptor.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\Xwing.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\Ywing.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\Other\exit.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\Other\logo.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\Other\mainmenu.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\Other\mainmenu_background.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\Other\newGame.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\Other\options.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\Other\resume.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Ships\explode.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Ships\Stardestroyer\full.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Ships\TieFighter\full.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Ships\Xwing\full.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\explode.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Destroyer\full.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Empire\Destroyer\full.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Empire\Minion\full.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\Awing\full.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\MilleniumFalcon\full.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\TieFighter\full.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\TieInterceptor\full.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\Xwing\full.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\Ywing\full.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Rebels\Destroyer\full.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Rebels\Minion\full.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\bullet.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\dead.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\full.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\LaserCanon\bullet.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\RocketCanon\bullet.xnb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\audio.xgs
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Empire.xwb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Rebels.xwb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Player.xwb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Empire.xsb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Rebels.xsb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Player.xsb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\StarWarsFighter.exe
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\StarWarsFighter.pdb
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.dll
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Xact.dll
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.xml
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Xact.xml
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\obj\x86\Debug\StarWarsFighter.csprojResolveAssemblyReference.cache
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\obj\x86\Debug\StarWarsFighter.exe
+E:\TEMP\StarWarsFighter\StarWarsFighter\StarWarsFighter\obj\x86\Debug\StarWarsFighter.pdb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\LaserCanon\Sounds\blast.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\Sounds\explode.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\Sounds\hit.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\RocketCanon\Sounds\blast.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\Sounds\blast.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Music\Star Wars Episode IV A new Hope-Battle of Yavin IV.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Music\Star Wars Episode VI_ Return of the Jedi-Battle of Endor 1.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Music\Star Wars Episode V_ The Empire Strikes Back-  Rescue from Cloud City, Hyperspace.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Music\Star Wars Episode V_ The Empire Strikes Back- Attacking a Star Destroyer.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Music\Star Wars Episode V_ The Empire Strikes Back- The Asteroid Field.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Items\AmmoBox_pickup.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Music\Star Wars Main Theme.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Rebels\Minion\Sounds\explode.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Rebels\Minion\Sounds\fly.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Rebels\Minion\Sounds\hit.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Empire\Minion\Sounds\explode.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Empire\Minion\Sounds\fly.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Empire\Minion\Sounds\hit.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Empire\Destroyer\Sounds\explode.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Empire\Destroyer\Sounds\fly.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Empire\Destroyer\Sounds\hit.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Rebels\Destroyer\Sounds\explode.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Rebels\Destroyer\Sounds\fly.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Rebels\Destroyer\Sounds\hit.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\GUIFont.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\ScoreFont.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\empireLogo.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\mouseCursor.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\rebelsLogo.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\space.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\space_full.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\GUI\Weapons\LaserCanon.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\GUI\Weapons\RocketCanon.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Items\AmmoBox.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\Awing.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\back.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\debug.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\debugChecked.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\empire.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\empireLogo.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\empireLogo4.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\exit.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\logo.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\logo_other.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\mainmenu.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\mainmenu_background.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\menu.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\MilleniumFalcon.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\newGame.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\options.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\paused.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\rebels.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\rebelsLogo.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\resume.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\TieFighter.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\TieInterceptor.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\Xwing.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\Ywing.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\Other\exit.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\Other\logo.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\Other\mainmenu.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\Other\mainmenu_background.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\Other\newGame.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\Other\options.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\Other\resume.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Ships\explode.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Ships\Stardestroyer\full.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Ships\TieFighter\full.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Ships\Xwing\full.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\explode.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Destroyer\full.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Empire\Destroyer\full.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Empire\Minion\full.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\Awing\full.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\MilleniumFalcon\full.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\TieFighter\full.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\TieInterceptor\full.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\Xwing\full.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\Ywing\full.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Rebels\Destroyer\full.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Rebels\Minion\full.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\bullet.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\dead.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\full.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\LaserCanon\bullet.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\RocketCanon\bullet.xnb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\audio.xgs
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Empire.xwb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Rebels.xwb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Player.xwb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Empire.xsb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Rebels.xsb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Player.xsb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\StarWarsFighter.exe
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\StarWarsFighter.pdb
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.dll
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Xact.dll
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.xml
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Xact.xml
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\obj\x86\Debug\StarWarsFighter.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\obj\x86\Debug\StarWarsFighter.exe
+F:\Visual Studio 2015 Community\Projects\Back\StarWarsFighter\StarWarsFighter\StarWarsFighter\obj\x86\Debug\StarWarsFighter.pdb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\obj\x86\Debug\StarWarsFighter.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\LaserCanon\Sounds\blast.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\Sounds\explode.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\Sounds\hit.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\RocketCanon\Sounds\blast.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\Sounds\blast.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Music\Star Wars Episode IV A new Hope-Battle of Yavin IV.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Music\Star Wars Episode VI_ Return of the Jedi-Battle of Endor 1.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Music\Star Wars Episode V_ The Empire Strikes Back-  Rescue from Cloud City, Hyperspace.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Music\Star Wars Episode V_ The Empire Strikes Back- Attacking a Star Destroyer.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Music\Star Wars Episode V_ The Empire Strikes Back- The Asteroid Field.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Items\AmmoBox_pickup.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Music\Star Wars Main Theme.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\GUIFont.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\ScoreFont.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\empireLogo.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\mouseCursor.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\rebelsLogo.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\space.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\space_full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Items\AmmoBox.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\back.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\empire.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\empireLogo.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\empireLogo4.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\exit.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\logo.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\logo_other.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\mainmenu.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\mainmenu_background.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\menu.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\newGame.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\options.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\paused.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\rebels.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\rebelsLogo.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\resume.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\Other\exit.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\Other\logo.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\Other\mainmenu.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\Other\mainmenu_background.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\Other\newGame.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\Other\options.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\Other\resume.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Ships\Stardestroyer\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Ships\TieFighter\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Ships\Xwing\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\explode.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\Awing\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\MilleniumFalcon\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\TieBomber\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\TieFighter\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\TieInterceptor\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\Xwing\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\Ywing\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\bullet.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\dead.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\LaserCanon\bullet.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\RocketCanon\bullet.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\SlaveOne\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\Xwing\full_idle.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\SeismicBomb\Sounds\blast.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\SeismicBomb\Sounds\countdown.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\SeismicBomb\Sounds\explosion.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\SeismicBomb\explosion.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\SeismicBomb\bullet.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\audio.xgs
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships.xwb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Enemy\Awing\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Enemy\EmpireDestroyer\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Enemy\RebelsDestroyer\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Enemy\TieFighter\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Enemy\TieInterceptor\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Enemy\Xwing\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\GUI\Weapons\LaserCanon.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\GUI\Weapons\RocketCanon.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\GUI\Weapons\SeismicBomb.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\All.xsb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\full_rebel.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\checkBox.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\checkBoxChecked.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighter\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\dead.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\LaserCanon\Sounds\blast.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\Sounds\explode.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\Sounds\hit.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\RocketCanon\Sounds\blast.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\Sounds\blast.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Music\Star Wars Episode IV A new Hope-Battle of Yavin IV.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Items\AmmoBox_pickup.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Music\Star Wars Main Theme.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\SeismicBomb\Sounds\blast.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\SeismicBomb\Sounds\countdown.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\SeismicBomb\Sounds\explosion.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\GUIFont.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\ScoreFont.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\empireLogo.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\mouseCursor.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\rebelsLogo.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\space.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\space_full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\GUI\Weapons\LaserCanon.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\GUI\Weapons\RocketCanon.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\GUI\Weapons\SeismicBomb.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Items\AmmoBox.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\checkBox.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\checkBoxChecked.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\empire.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\empireLogo.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\logo.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\mainmenu_background.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\paused.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\rebels.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\rebelsLogo.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\explode.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Enemy\Awing\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Enemy\EmpireDestroyer\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Enemy\RebelsDestroyer\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Enemy\TieFighter\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Enemy\TieInterceptor\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Enemy\Xwing\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\Awing\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\MilleniumFalcon\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\SlaveOne\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\TieBomber\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\TieFighter\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\TieInterceptor\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\Xwing\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\Xwing\full_idle.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\Ywing\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\bullet.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\dead.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\LaserCanon\bullet.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\RocketCanon\bullet.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\SeismicBomb\bullet.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\SeismicBomb\explosion.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\full_rebel.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\dead.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\audio.xgs
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships.xwb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\All.xsb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\StarWarsFighter.exe
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\StarWarsFighter.pdb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.dll
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Net.dll
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Xact.dll
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.xml
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Net.xml
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Xact.xml
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\obj\x86\Debug\StarWarsFighter.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\obj\x86\Debug\StarWarsFighter.exe
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\obj\x86\Debug\StarWarsFighter.pdb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\button.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\BtnFont.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetwork\StarWarsFighter\StarWarsFighter\bin\x86\Debug\StarWarsFighter.exe.config
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\LaserCanon\Sounds\blast.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\Sounds\explode.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\Sounds\hit.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\RocketCanon\Sounds\blast.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\Sounds\blast.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Items\AmmoBox_pickup.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Music\Star Wars Main Theme.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\SeismicBomb\Sounds\blast.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\SeismicBomb\Sounds\countdown.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\SeismicBomb\Sounds\explosion.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Music\Star Wars Episode IV A new Hope-Battle of Yavin IV.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\GUIFont.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\ScoreFont.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\BtnFont.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\empireLogo.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\mouseCursor.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\rebelsLogo.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\space.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\space_full.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\GUI\Weapons\LaserCanon.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\GUI\Weapons\RocketCanon.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\GUI\Weapons\SeismicBomb.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Items\AmmoBox.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\checkBox.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\checkBoxChecked.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\empire.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\empireLogo.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\logo.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\mainmenu_background.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\paused.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\rebels.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\rebelsLogo.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\explode.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Enemy\Awing\full.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Enemy\EmpireDestroyer\full.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Enemy\RebelsDestroyer\full.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Enemy\TieFighter\full.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Enemy\TieInterceptor\full.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Enemy\Xwing\full.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\Awing\full.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\MilleniumFalcon\full.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\SlaveOne\full.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\TieBomber\full.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\TieFighter\full.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\TieInterceptor\full.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\Xwing\full.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\Xwing\full_idle.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\Ywing\full.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\bullet.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\dead.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\full.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\LaserCanon\bullet.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\RocketCanon\bullet.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\SeismicBomb\bullet.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\SeismicBomb\explosion.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\full_rebel.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\dead.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\button.xnb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\audio.xgs
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships.xwb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\All.xsb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\StarWarsFighter.exe.config
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\StarWarsFighter.exe
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\StarWarsFighter.pdb
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.dll
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Net.dll
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Xact.dll
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.xml
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Net.xml
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Xact.xml
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\obj\x86\Debug\StarWarsFighter.csprojResolveAssemblyReference.cache
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\obj\x86\Debug\StarWarsFighter.exe
+E:\TEMP\ghgh\StarWarsFighter\StarWarsFighter\obj\x86\Debug\StarWarsFighter.pdb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\LaserCanon\Sounds\blast.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\Sounds\explode.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\Sounds\hit.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\RocketCanon\Sounds\blast.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\Sounds\blast.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Items\AmmoBox_pickup.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Music\Star Wars Main Theme.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\SeismicBomb\Sounds\blast.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\SeismicBomb\Sounds\countdown.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\SeismicBomb\Sounds\explosion.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Music\Star Wars Episode IV A new Hope-Battle of Yavin IV.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\GUIFont.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\ScoreFont.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\BtnFont.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\empireLogo.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\mouseCursor.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\rebelsLogo.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\space_full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\GUI\Weapons\LaserCanon.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\GUI\Weapons\RocketCanon.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\GUI\Weapons\SeismicBomb.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Items\AmmoBox.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\checkBox.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\checkBoxChecked.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\empire.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\empireLogo.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\logo.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\mainmenu_background.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\paused.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\rebels.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\rebelsLogo.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\explode.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Enemy\Awing\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Enemy\EmpireDestroyer\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Enemy\RebelsDestroyer\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Enemy\TieFighter\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Enemy\TieInterceptor\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Enemy\Xwing\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\Awing\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\MilleniumFalcon\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\SlaveOne\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\TieBomber\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\TieFighter\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\TieInterceptor\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\Xwing\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\Xwing\full_idle.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\Ywing\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\bullet.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\dead.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\LaserCanon\bullet.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\RocketCanon\bullet.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\SeismicBomb\bullet.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\SeismicBomb\explosion.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\full_rebel.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\dead.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\button.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\audio.xgs
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships.xwb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\All.xsb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\StarWarsFighter.exe.config
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\StarWarsFighter.exe
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\StarWarsFighter.pdb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.dll
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Net.dll
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Xact.dll
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.xml
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Net.xml
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Xact.xml
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\obj\x86\Debug\StarWarsFighter.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\obj\x86\Debug\StarWarsFighter.exe
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\obj\x86\Debug\StarWarsFighter.pdb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterNetworkNEW\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\shield.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\LaserCanon\Sounds\blast.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\Sounds\explode.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\Sounds\hit.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\RocketCanon\Sounds\blast.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\Sounds\blast.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Items\AmmoBox_pickup.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Music\Star Wars Main Theme.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\SeismicBomb\Sounds\blast.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\SeismicBomb\Sounds\countdown.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\SeismicBomb\Sounds\explosion.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Music\Star Wars Episode IV A new Hope-Battle of Yavin IV.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\GUIFont.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\ScoreFont.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\BtnFont.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\empireLogo.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\mouseCursor.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\rebelsLogo.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\space_full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\GUI\Weapons\LaserCanon.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\GUI\Weapons\RocketCanon.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\GUI\Weapons\SeismicBomb.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Items\AmmoBox.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\checkBox.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\checkBoxChecked.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\empire.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\empireLogo.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\logo.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\mainmenu_background.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\paused.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\rebels.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\rebelsLogo.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\explode.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Enemy\Awing\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Enemy\EmpireDestroyer\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Enemy\RebelsDestroyer\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Enemy\TieFighter\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Enemy\TieInterceptor\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Enemy\Xwing\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\Awing\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\MilleniumFalcon\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\SlaveOne\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\TieBomber\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\TieFighter\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\TieInterceptor\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\Xwing\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\Xwing\full_idle.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\Ywing\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\bullet.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\dead.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\full.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\LaserCanon\bullet.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\RocketCanon\bullet.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\SeismicBomb\bullet.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\SeismicBomb\explosion.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\full_rebel.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\dead.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\button.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\shield.xnb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\audio.xgs
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships.xwb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\All.xsb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\StarWarsFighter.exe.config
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\StarWarsFighter.exe
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\StarWarsFighter.pdb
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.dll
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Net.dll
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Xact.dll
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.xml
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Net.xml
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Xact.xml
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\obj\x86\Debug\StarWarsFighter.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\obj\x86\Debug\StarWarsFighter.exe
+F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\obj\x86\Debug\StarWarsFighter.pdb

@@ -1,0 +1,17 @@
+stats
+50
+4
+endstats
+lasercannon
+220,20,60
+5
+1,5
+50
+offsets
+-50
+-29
+50
+-29
+endoffsets
+endcanon
+end

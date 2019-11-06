@@ -1,0 +1,5 @@
+Content\audio.xgs
+Content\Ships.xwb
+Content\Empire.xsb
+Content\Rebels.xsb
+Content\Player.xsb

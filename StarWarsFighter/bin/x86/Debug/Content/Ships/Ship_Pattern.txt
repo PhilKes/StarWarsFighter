@@ -1,0 +1,36 @@
+stats
+[health]
+[speed](default:8)
+endstats
+lasercannon
+[Red,Green,Blue](Bullet Color)
+[damage]
+[rate of fire](def:0,3]
+[ammo]
+offsets
+[x1]
+[y1]
+[x2]
+[y2]
+...
+endoffsets
+endcanon
+rocketcannon
+[damage]
+[rateofFire](def:2)
+[ammo](def:20)
+offsets (def:Center of Ship)
+0
+-50
+endoffsets
+endcanon
+seismicbomb
+[damage](def:100)
+[rateOfFire](def:2)
+[ammo]
+offsets
+0
+0
+endoffsets
+endcannon
+end

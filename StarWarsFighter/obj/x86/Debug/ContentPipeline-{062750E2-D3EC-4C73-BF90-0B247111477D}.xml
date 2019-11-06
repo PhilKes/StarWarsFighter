@@ -1,0 +1,569 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Weapons\LaserCanon\Sounds\blast.wav</Source>
+      <Name>Weapons\LaserCanon\Sounds\blast</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\LaserCanon\Sounds\blast.xnb</Output>
+      <Time>2016-02-14T15:45:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Weapons\CruiserCanon\Sounds\explode.wav</Source>
+      <Name>Weapons\CruiserCanon\Sounds\explode</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\Sounds\explode.xnb</Output>
+      <Time>2016-01-30T12:23:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Weapons\CruiserCanon\Sounds\hit.wav</Source>
+      <Name>Weapons\CruiserCanon\Sounds\hit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\Sounds\hit.xnb</Output>
+      <Time>2016-01-30T12:23:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Weapons\RocketCanon\Sounds\blast.wav</Source>
+      <Name>Weapons\RocketCanon\Sounds\blast</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\RocketCanon\Sounds\blast.xnb</Output>
+      <Time>2016-02-01T16:04:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Weapons\CruiserCanon\Sounds\blast.wav</Source>
+      <Name>Weapons\CruiserCanon\Sounds\blast</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\Sounds\blast.xnb</Output>
+      <Time>2016-01-23T21:36:02+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\Items\AmmoBox_pickup.wav</Source>
+      <Name>Misc\Items\AmmoBox_pickup</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Items\AmmoBox_pickup.xnb</Output>
+      <Time>2016-02-02T11:37:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\Music\Star Wars Main Theme.wav</Source>
+      <Name>Misc\Music\Star Wars Main Theme</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Music\Star Wars Main Theme.xnb</Output>
+      <Time>2016-05-01T22:22:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Weapons\SeismicBomb\Sounds\blast.wav</Source>
+      <Name>Weapons\SeismicBomb\Sounds\blast</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\SeismicBomb\Sounds\blast.xnb</Output>
+      <Time>2016-03-13T12:42:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Weapons\SeismicBomb\Sounds\countdown.wav</Source>
+      <Name>Weapons\SeismicBomb\Sounds\countdown</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\SeismicBomb\Sounds\countdown.xnb</Output>
+      <Time>2016-03-13T12:42:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Weapons\SeismicBomb\Sounds\explosion.wav</Source>
+      <Name>Weapons\SeismicBomb\Sounds\explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\SeismicBomb\Sounds\explosion.xnb</Output>
+      <Time>2016-03-13T16:52:58+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\Music\Star Wars Episode IV A new Hope-Battle of Yavin IV.wav</Source>
+      <Name>Misc\Music\Star Wars Episode IV A new Hope-Battle of Yavin IV</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Music\Star Wars Episode IV A new Hope-Battle of Yavin IV.xnb</Output>
+      <Time>2016-02-01T16:49:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GUIFont.spritefont</Source>
+      <Name>GUIFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\GUIFont.xnb</Output>
+      <Time>2018-03-25T13:51:07.9690099+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ScoreFont.spritefont</Source>
+      <Name>ScoreFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\ScoreFont.xnb</Output>
+      <Time>2018-03-25T13:51:45.2984757+02:00</Time>
+    </Item>
+    <Item>
+      <Source>BtnFont.spritefont</Source>
+      <Name>BtnFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\BtnFont.xnb</Output>
+      <Time>2018-03-25T13:50:42.4973413+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\empireLogo.png</Source>
+      <Name>Misc\empireLogo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\empireLogo.xnb</Output>
+      <Time>2016-02-04T21:24:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\mouseCursor.png</Source>
+      <Name>Misc\mouseCursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\mouseCursor.xnb</Output>
+      <Time>2016-02-04T22:48:12+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\rebelsLogo.png</Source>
+      <Name>Misc\rebelsLogo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\rebelsLogo.xnb</Output>
+      <Time>2016-02-04T20:14:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\space_full.png</Source>
+      <Name>Misc\space_full</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\space_full.xnb</Output>
+      <Time>2016-02-04T00:45:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\GUI\Weapons\LaserCanon.png</Source>
+      <Name>Misc\GUI\Weapons\LaserCanon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\GUI\Weapons\LaserCanon.xnb</Output>
+      <Time>2016-02-01T17:53:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\GUI\Weapons\RocketCanon.png</Source>
+      <Name>Misc\GUI\Weapons\RocketCanon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\GUI\Weapons\RocketCanon.xnb</Output>
+      <Time>2016-02-01T17:34:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\GUI\Weapons\SeismicBomb.png</Source>
+      <Name>Misc\GUI\Weapons\SeismicBomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\GUI\Weapons\SeismicBomb.xnb</Output>
+      <Time>2016-03-13T12:21:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\Items\AmmoBox.png</Source>
+      <Name>Misc\Items\AmmoBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Items\AmmoBox.xnb</Output>
+      <Time>2016-02-02T12:03:16+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\Menu\checkBox.png</Source>
+      <Name>Misc\Menu\checkBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\checkBox.xnb</Output>
+      <Time>2016-02-13T16:07:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\Menu\checkBoxChecked.png</Source>
+      <Name>Misc\Menu\checkBoxChecked</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\checkBoxChecked.xnb</Output>
+      <Time>2016-02-13T16:10:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\Menu\empire.png</Source>
+      <Name>Misc\Menu\empire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\empire.xnb</Output>
+      <Time>2016-02-04T21:50:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\Menu\empireLogo.png</Source>
+      <Name>Misc\Menu\empireLogo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\empireLogo.xnb</Output>
+      <Time>2016-02-05T21:48:52+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\Menu\logo.png</Source>
+      <Name>Misc\Menu\logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\logo.xnb</Output>
+      <Time>2016-02-03T19:39:10+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\Menu\mainmenu_background.png</Source>
+      <Name>Misc\Menu\mainmenu_background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\mainmenu_background.xnb</Output>
+      <Time>2016-02-04T13:23:26+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\Menu\paused.png</Source>
+      <Name>Misc\Menu\paused</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\paused.xnb</Output>
+      <Time>2016-02-04T13:45:12+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\Menu\rebels.png</Source>
+      <Name>Misc\Menu\rebels</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\rebels.xnb</Output>
+      <Time>2016-02-04T21:49:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\Menu\rebelsLogo.png</Source>
+      <Name>Misc\Menu\rebelsLogo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\rebelsLogo.xnb</Output>
+      <Time>2016-02-05T21:59:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\explode.png</Source>
+      <Name>Ships\explode</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\explode.xnb</Output>
+      <Time>2016-03-09T22:41:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\Enemy\Awing\full.png</Source>
+      <Name>Ships\Enemy\Awing\full</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Enemy\Awing\full.xnb</Output>
+      <Time>2016-03-14T18:57:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\Enemy\EmpireDestroyer\full.png</Source>
+      <Name>Ships\Enemy\EmpireDestroyer\full</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Enemy\EmpireDestroyer\full.xnb</Output>
+      <Time>2016-03-28T21:45:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\Enemy\RebelsDestroyer\full.png</Source>
+      <Name>Ships\Enemy\RebelsDestroyer\full</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Enemy\RebelsDestroyer\full.xnb</Output>
+      <Time>2016-03-28T21:46:04+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\Enemy\TieFighter\full.png</Source>
+      <Name>Ships\Enemy\TieFighter\full</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Enemy\TieFighter\full.xnb</Output>
+      <Time>2016-02-06T20:40:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\Enemy\TieInterceptor\full.png</Source>
+      <Name>Ships\Enemy\TieInterceptor\full</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Enemy\TieInterceptor\full.xnb</Output>
+      <Time>2016-02-19T20:27:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\Enemy\Xwing\full.png</Source>
+      <Name>Ships\Enemy\Xwing\full</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Enemy\Xwing\full.xnb</Output>
+      <Time>2016-02-19T20:41:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\Player\Awing\full.png</Source>
+      <Name>Ships\Player\Awing\full</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\Awing\full.xnb</Output>
+      <Time>2016-03-13T00:50:16+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\Player\MilleniumFalcon\full.png</Source>
+      <Name>Ships\Player\MilleniumFalcon\full</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\MilleniumFalcon\full.xnb</Output>
+      <Time>2016-03-12T22:36:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\Player\SlaveOne\full.png</Source>
+      <Name>Ships\Player\SlaveOne\full</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\SlaveOne\full.xnb</Output>
+      <Time>2016-03-13T01:15:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\Player\TieBomber\full.png</Source>
+      <Name>Ships\Player\TieBomber\full</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\TieBomber\full.xnb</Output>
+      <Time>2016-02-06T20:51:48+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\Player\TieFighter\full.png</Source>
+      <Name>Ships\Player\TieFighter\full</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\TieFighter\full.xnb</Output>
+      <Time>2016-02-04T16:32:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\Player\TieInterceptor\full.png</Source>
+      <Name>Ships\Player\TieInterceptor\full</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\TieInterceptor\full.xnb</Output>
+      <Time>2016-02-06T22:34:26+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\Player\Xwing\full.png</Source>
+      <Name>Ships\Player\Xwing\full</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\Xwing\full.xnb</Output>
+      <Time>2016-03-13T00:44:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\Player\Xwing\full_idle.png</Source>
+      <Name>Ships\Player\Xwing\full_idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\Xwing\full_idle.xnb</Output>
+      <Time>2016-03-12T18:03:10+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\Player\Ywing\full.png</Source>
+      <Name>Ships\Player\Ywing\full</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\Player\Ywing\full.xnb</Output>
+      <Time>2018-03-25T14:10:18.3941856+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Weapons\CruiserCanon\bullet.png</Source>
+      <Name>Weapons\CruiserCanon\bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\bullet.xnb</Output>
+      <Time>2016-01-31T22:56:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Weapons\CruiserCanon\dead.png</Source>
+      <Name>Weapons\CruiserCanon\dead</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\dead.xnb</Output>
+      <Time>2016-03-11T22:39:58+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Weapons\CruiserCanon\full.png</Source>
+      <Name>Weapons\CruiserCanon\full</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\full.xnb</Output>
+      <Time>2016-01-30T11:23:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Weapons\LaserCanon\bullet.png</Source>
+      <Name>Weapons\LaserCanon\bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\LaserCanon\bullet.xnb</Output>
+      <Time>2016-01-29T17:26:10+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Weapons\RocketCanon\bullet.png</Source>
+      <Name>Weapons\RocketCanon\bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\RocketCanon\bullet.xnb</Output>
+      <Time>2016-02-01T15:35:22+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Weapons\SeismicBomb\bullet.png</Source>
+      <Name>Weapons\SeismicBomb\bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\SeismicBomb\bullet.xnb</Output>
+      <Time>2016-03-13T16:48:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Weapons\SeismicBomb\explosion.png</Source>
+      <Name>Weapons\SeismicBomb\explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\SeismicBomb\explosion.xnb</Output>
+      <Time>2018-03-27T20:20:34.015947+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Weapons\CruiserCanon\full_rebel.png</Source>
+      <Name>Weapons\CruiserCanon\full_rebel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Weapons\CruiserCanon\full_rebel.xnb</Output>
+      <Time>2016-04-16T15:24:04+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\Menu\dead.png</Source>
+      <Name>Misc\Menu\dead</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\dead.xnb</Output>
+      <Time>2016-04-19T15:49:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\Menu\button.png</Source>
+      <Name>Misc\Menu\button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Misc\Menu\button.xnb</Output>
+      <Time>2016-04-24T21:25:48+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\shield.png</Source>
+      <Name>Ships\shield</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\Ships\shield.xnb</Output>
+      <Time>2016-05-05T17:41:10+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{062750E2-D3EC-4C73-BF90-0B247111477D}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighterContent\</RootDirectory>
+      <LoggerRootDirectory>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\</LoggerRootDirectory>
+      <IntermediateDirectory>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>F:\Visual Studio 2015 Community\Projects\StarWarsFighterReady\StarWarsFighter\StarWarsFighter\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2017-12-10T11:45:53.4951384+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

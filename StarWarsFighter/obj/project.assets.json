@@ -1,0 +1,82 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.5.2": {},
+    ".NETFramework,Version=v4.5.2/win7-x86": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.5.2": [
+      "F:\\Visual Studio 2015 Community\\Projects\\StarWarsFighterReady\\StarWarsFighter\\StarWarsFighterContent\\StarWarsFighterContent.contentproj"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Phil\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
+    "restore": {
+      "projectUniqueName": "F:\\Visual Studio 2015 Community\\Projects\\StarWarsFighterReady\\StarWarsFighter\\StarWarsFighter\\StarWarsFighter.csproj",
+      "projectName": "StarWarsFighter",
+      "projectPath": "F:\\Visual Studio 2015 Community\\Projects\\StarWarsFighterReady\\StarWarsFighter\\StarWarsFighter\\StarWarsFighter.csproj",
+      "packagesPath": "C:\\Users\\Phil\\.nuget\\packages\\",
+      "outputPath": "F:\\Visual Studio 2015 Community\\Projects\\StarWarsFighterReady\\StarWarsFighter\\StarWarsFighter\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Phil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+      ],
+      "originalTargetFrameworks": [
+        "net452"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net452": {
+          "projectReferences": {
+            "F:\\Visual Studio 2015 Community\\Projects\\StarWarsFighterReady\\StarWarsFighter\\StarWarsFighterContent\\StarWarsFighterContent.contentproj": {
+              "projectPath": "F:\\Visual Studio 2015 Community\\Projects\\StarWarsFighterReady\\StarWarsFighter\\StarWarsFighterContent\\StarWarsFighterContent.contentproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net452": {}
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Für \"F:\\Visual Studio 2015 Community\\Projects\\StarWarsFighterReady\\StarWarsFighter\\StarWarsFighterContent\\StarWarsFighterContent.contentproj\" wurden keine Projektinformationen gefunden. Die Projektdatei ist möglicherweise ungültig, oder es fehlen Ziele, die für die Wiederherstellung erforderlich sind.",
+      "libraryId": "F:\\Visual Studio 2015 Community\\Projects\\StarWarsFighterReady\\StarWarsFighter\\StarWarsFighterContent\\StarWarsFighterContent.contentproj",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.5.2",
+        ".NETFramework,Version=v4.5.2/win7-x86"
+      ]
+    }
+  ]
+}
